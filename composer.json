@@ -1,8 +1,8 @@
 {
-    "name": "bitbag/vuestorefront-plugin",
+    "name": "fasdgsdgq223rfasdfsdfasdf/vuestorefront-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin", "sylius vuestorefront"],
-    "description": "BitBag VueStorefront bridge for Sylius.",
+    "description": "BitBag VueStorefront bridge for Sylius fork, solving serializer version problem",
     "license": "MIT",
     "require": {
         "php": "^7.3",
